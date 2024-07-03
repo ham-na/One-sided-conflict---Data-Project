@@ -3,7 +3,9 @@
 
 ## Data Source
 **Dataset**: UCDP One-sided Violence Dataset version 24.1  
+
 **Description**: An actor-year dataset with information on intentional attacks on civilians by governments and formally organized armed groups.  
+
 **Link**: [UCDP One-sided Violence Dataset](https://ucdp.uu.se/downloads/index.html#candidate)
 
 ## Process
@@ -12,8 +14,10 @@
   
 ## Findings
 
+- [Sql file](https://github.com/ham-na/sql-dump/blob/main/One_sided_conflict.sql)
+
 ### Personal Favorite Findings
-**Incident Frequency vs. Fatalities Over Time**: 
+- **Incident Frequency vs. Fatalities Over Time**: 
   - The frequency of incidents increased after the 2000s, but the number of fatalities was higher in the 1900s.
   - This suggests that while incidents have become more frequent in recent years, they have become less deadly, potentially due to improved safety measures, better emergency responses, or advancements in technology.
 - **Disparity in Fatality Estimates**:
